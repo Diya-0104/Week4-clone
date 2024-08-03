@@ -1,0 +1,567 @@
+.logo{
+    padding-top: 2%;
+    margin-left: 40%;
+}
+
+.flex{
+    display: flex;
+}
+
+header nav div li{
+    list-style: none;
+    text-align: center;
+    padding: 3%;
+    
+}
+
+.margin{
+    margin-left: 14%;
+
+}
+
+.banner1{
+    position: relative;
+}
+
+.design{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 80px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+
+.span{
+    color: white;
+    position: absolute;
+    top:83%;
+    left: 50%;
+    font-size: 23px;
+    padding-top: 1%;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.button{
+    position: absolute;
+    top: 92%;
+    left: 50%;
+    background-color: white;
+    border-color: white;
+    border-radius: 50px;
+    padding:1% 4%;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.photo{
+    
+    float: right;
+    width: 40%;
+    height:40%;
+   padding-right: 5%;
+   padding-top: 10%;
+
+}
+
+.about{
+   padding-left: 20%;
+   position: relative;
+  padding-top: 10%;
+  font-size: 48px;
+
+}
+
+.para{
+   
+    font-size: 20px;
+    padding-left: 6%;
+     float: left;
+     width: 45%;
+     margin-top: 5%; 
+}
+
+.button2{
+    background-color: black;
+    color: white;
+    padding:1% 4%;
+    border: black;
+    margin-left: 6%;
+
+}
+
+.services{
+    font-size: 48px;
+    text-align: center;
+    padding-top: 20%;
+}
+
+.img2{
+    margin-left: 3%;
+}
+
+.our1{
+    float: left;
+    width: 40%;
+    height:40%;
+   padding-left: 5%;
+   grid-area: menu;
+  
+}
+
+.our{
+    
+     padding-right: 15%;
+     grid-area: menu;
+     width:40%;
+     height: 40%;
+     float: right;
+   
+}
+
+
+.our2{
+    float: left;
+    width: 40%;
+    height:40%;
+   padding-left: 25%;
+   grid-area: menu;
+}
+
+.our3{
+    float: right;
+    width:30%;
+    height: 30%;
+    padding-right: 3%;
+}
+
+.button3{
+    padding:1% 4%;
+    background-color: black;
+    border: black;
+    color: white;
+    font-weight: bold;
+    margin-left: 45%;
+    margin-top: 3%;
+}
+
+.gallery{
+    background-color: #f8f9fa;
+}
+
+
+.gall{
+    font-size: 48px;
+    text-align: center;
+}
+
+.para2{
+    text-align: center;
+    font-size: larger;
+}
+
+div.gall {
+    
+    margin-top: 5%;
+   margin-left: 5%;
+    float: left;
+    width: 369px;
+
+  }
+  
+  div.gall img {
+    width: 100%;
+    height: auto;
+    
+  }
+
+  .para3{
+    font-size: 25px;
+    padding-top: 25%;
+    padding-right: 12%;
+    color: white;
+    margin-left: 2%;
+    padding-left: 12%;
+  }
+
+.card{
+        margin-left: 2%;
+        text-align: center;
+        background-color: #2a2b2a;
+        height: 369px;
+        display: flex;
+         width: 369px;
+}
+
+
+.new{
+    padding-top: 105%;
+    margin-left: 10%;
+    font-size: 30px;
+
+}
+
+.photo3{
+    
+    float: right;
+    width: 50%;
+    height:50%;
+   padding-right: 5%;
+   padding-top: 10%;
+
+}
+
+.para4{
+    text-align: center;
+    font-size: larger;
+}
+
+.button7{
+    margin-right: 10%;
+   position: relative;
+   padding-left: 3%;
+   padding-right: 1%;
+   padding-top: 1%;
+   padding-bottom: 1%;
+   margin-bottom: 5%;
+   margin-top:5%;
+   color: white;
+   background-color: #2a2b2a;
+  }
+  
+  .button8{
+    margin-left: 16%;
+    display: flex;
+    float: left;
+    position: relative;
+    padding-right: 3%;
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-bottom: 5%;
+    margin-top:5%;
+color: white;
+background-color: #2a2b2a;
+  }
+
+
+.news{
+    text-align: center;
+    font-size: 48px;
+}
+
+.card1{
+    margin-left: 2%;
+    text-align: center;
+    
+    height: 100%;
+    display: flex;
+     width: 40%;
+}
+
+div.gall1 {
+    
+    margin-top: 5%;
+   margin-left: 8%;
+    float: left;
+    width: 40%;
+
+  }
+  
+  div.gall1 img {
+    width: 100%;
+    height: auto;
+  }
+
+
+  
+
+.interior{
+  margin-left: 10%;
+  padding-top: 1%;
+  font-size: larger;
+  display: inline-flex;
+
+}
+
+.para10{
+    margin-right: 10%;
+    margin-left: 7%;
+}
+
+.para9{
+    margin-right: 10%;
+    margin-left: 40%;
+}
+
+.button9{
+    margin-left: 40%;
+    background-color: black;
+    color: white;
+    padding: 1% 3%;
+    margin-top: 2%;
+}
+
+
+.column3 {
+    float: left;
+    width: 40%;
+  padding: 5% 1%;
+  margin-left: 1%;
+  
+  }
+  
+  .row3 {
+    margin: 0 -5px;
+  }
+  
+  .row3:after {
+    content: "";
+    display: table;
+    clear: both;
+    
+  }
+  
+  .card3 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  padding-left: 1%;
+  padding-right: 5%;
+    text-align: center;
+    background-color: #2a2b2a;
+    color: white;
+    width: 60%;
+   margin-top: 4%;
+   float: inline-start;
+  }
+
+
+  .button11{
+    float: right;
+   position: relative;
+   padding-left: 3%;
+   padding-right: 1%;
+   padding-top: 1%;
+   padding-bottom: 1%;
+   margin-top: 2px;
+   margin-right: 15%;
+   color: white;
+   background-color: #2a2b2a;
+  }
+  
+.button12{
+    
+    margin-left: 75%;
+    float: left;
+    position: relative;
+    padding-right: 3%;
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-bottom: 5%;
+    color: white;
+    background-color: #2a2b2a;
+}
+
+.terminal{
+    text-align: right;
+    font-size: 48px;
+    margin-right: 12%;
+    float: right;
+    margin-top: 15%;
+  }
+
+
+  .us{
+    position: relative;
+    text-align: center;
+  }
+
+  .contact{
+    position: absolute;
+    top: 48%;
+    left: 16%;
+    color: white;
+    font-size: 48px;
+  }
+
+ .name{
+    position: absolute;
+    top:58%;
+    left:16%;
+        border: #fff solid 1px;
+        padding: 0 15px;
+        margin-bottom: 25px;
+        width: 30%;
+        height: 54px;
+        background: #fff;
+        color: #989696;
+        font-size: 18px;
+        font-weight: normal;
+        border-radius: 5px;
+
+ } 
+
+ .email{
+    position: absolute;
+    top:64%;
+    left:16%;
+        border: #fff solid 1px;
+        padding: 0 15px;
+        margin-bottom: 25px;
+        width: 30%;
+        height: 54px;
+        background: #fff;
+        color: #989696;
+        font-size: 18px;
+        font-weight: normal;
+        border-radius: 5px;
+ }
+
+ .phone{
+    position: absolute;
+    top:70%;
+    left:16%;
+        border: #fff solid 1px;
+        padding: 0 15px;
+        margin-bottom: 25px;
+        width: 30%;
+        height: 54px;
+        background: #fff;
+        color: #989696;
+        font-size: 18px;
+        font-weight: normal;
+        border-radius: 5px;
+ }
+
+ .textarea{
+
+    position: absolute;
+    top:76%;
+    left:16%;
+        border: #fff solid 1px;
+        padding-left: 15px;
+        padding-top: 3%;
+        padding-right: 15px;
+        padding-bottom: 3%;
+        margin-bottom: 25px;
+        width: 30%;
+        height: 54px;
+        background: #fff;
+        color: #989696;
+        font-size: 18px;
+        font-weight: normal;
+        border-radius: 5px;
+
+ }
+
+ .tower{
+    position: absolute;
+    top:58%;
+    left:50%;
+        max-width: 40%;
+        max-height: 40%;
+        background: #fff;
+        color: #989696;
+        border-radius: 5px;
+
+ }
+
+ .button4{
+    position: absolute;
+    top: 88%;
+    left:16%;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-right: 15px;
+    padding-bottom: 3%;
+    margin-bottom: 5px;
+    width: 10%;
+    height: 54px;
+    background: transparent;
+    border: white;
+    border-width: 4px;
+    font-size: 18px;
+    font-weight: normal;
+    border-radius: 5px;
+    color: #2a2b2a;
+
+ }
+
+ .footer{
+    background-color: #2a2b2a;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    
+  }
+  
+  .footer-container {
+    display: flex;
+    justify-content: space-around;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .footer-column {
+    flex: 1;
+    margin: 0 10px;
+    color: white;
+  }
+
+  .liststyle{
+    list-style: none;
+  }
+  
+  .footer-column h3 {
+    margin-bottom: 10px;
+  }
+
+  .para5{
+    margin-top: 4%;
+    padding-right: 2%;
+  }
+  
+  .footer-column p {
+    margin: 0;
+    padding-top: 5%;
+    margin-bottom: 5%;
+  }
+  
+  @media (max-width: 768px) {
+    .footer-container {
+        flex-direction: column;
+        align-items: center;
+        padding-top: 5%;
+    }
+  
+    .footer-column {
+        margin-bottom: 20px;
+        text-align: center;
+      
+    }
+  }
+  
+  .foot{
+    padding: 1% 7%;
+    background-color: #2a2b2a;
+    color: white;
+    border: white;
+    font-style: underline;
+    
+  }
+  
+  .subs{
+    color: white;
+    padding-top: 15%;
+    display: flex;
+    padding-right: 6%;
+    
+  }
+  
+  .copy{
+    text-align: center;
+  }
+ 
+  
+ 
