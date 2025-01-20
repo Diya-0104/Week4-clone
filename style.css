@@ -337,10 +337,10 @@ div.gall1 {
 
 
   .button11{
-    float: right;
+    
    position: relative;
    padding-left: 3%;
-   padding-right: 0%;
+   padding-right: 1%;
    padding-top: 1%;
    padding-bottom: 1%;
    margin-top: 2px;
@@ -352,10 +352,10 @@ div.gall1 {
 .button12{
     
     margin-left: 75%;
-    float: left;
+   
     position: relative;
     padding-right: 3%;
-    padding-left: 0%;
+    padding-left: 1%
     padding-top: 1%;
     padding-bottom: 1%;
     margin-bottom: 5%;
