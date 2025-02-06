@@ -337,25 +337,25 @@ div.gall1 {
 
 
   .button11{
-    
+    float: right;
    position: relative;
    padding-left: 3%;
    padding-right: 1%;
-   padding-top: 24px;
+   padding-top: 1%;
    padding-bottom: 1%;
-   margin-top: 24px;
-   margin-right: 10%;
+   margin-top: 2px;
+   margin-right: 15%;
    color: white;
    background-color: #2a2b2a;
   }
   
 .button12{
     
-    margin-left: 72%;
-    margin-top: 24px;
+    margin-left: 75%;
+    float: left;
     position: relative;
     padding-right: 3%;
-    padding-left: 1%
+    padding-left: 1%;
     padding-top: 1%;
     padding-bottom: 1%;
     margin-bottom: 5%;
@@ -562,6 +562,6 @@ div.gall1 {
   .copy{
     text-align: center;
   }
- 
+
   
  
